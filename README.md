@@ -18,13 +18,13 @@ SO THAT I can reach an agreed solution.
 
 ## Table of Contents 📖
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Badges](#badges)
-- [Credits\_&_Questions](#credits_&_questions)
-- [License](#license)
-- [Features](#features)
+- ![Installation](#installation)
+- ![Usage](#usage)
+- ![Tests](#tests)
+- ![Badges](#badges)
+- ![Credits\_&_Questions](#credits_&_questions)
+- ![License](#license)
+- ![Features](#features)
 
 ## Installation 🔑
 
@@ -74,6 +74,7 @@ The MIT license is in the GitHub repository. Click to link to view it:
 - ESLint
 - Heroku
 - Express
+- Chart.js
 - Sequelize
 - An MVC file structure
 - Coolors color palette
