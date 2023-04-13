@@ -74,6 +74,7 @@ The MIT license is in the GitHub repository. Click to link to view it:
 - ESLint
 - Heroku
 - Express
+- Chart.js
 - Sequelize
 - An MVC file structure
 - Coolors color palette
