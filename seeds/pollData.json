@@ -1,14 +1,14 @@
 [
   {
-    "question": "What is your favorite pizza topping?",
+    "question": "What is the best weekly work schedule?",
     "owner_id": 1
   },
   {
     "question": "What is your favorite day of the week?",
-    "owner_id": 1
+    "owner_id": 2
   },
   {
-    "question": "Who is your favorite super hero?",
-    "owner_id": 2
+    "question": "Which CSS framework do you think is the best?",
+    "owner_id": 3
   }
 ]

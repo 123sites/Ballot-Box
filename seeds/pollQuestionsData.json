@@ -1,19 +1,23 @@
 [
   {
     "poll_id": "1",
-    "answerText": "Pinapple"
+    "answerText": "5-day work week"
   },
   {
     "poll_id": "1",
-    "answerText": "Peppers"
+    "answerText": "4-day work week, with longer hours."
   },
   {
-    "poll_id": "1",
-    "answerText": "Sausage"
+    "poll_id": "2",
+    "answerText": "Monday"
   },
   {
-    "poll_id": "1",
-    "answerText": "None"
+    "poll_id": "2",
+    "answerText": "Tuesday"
+  },
+  {
+    "poll_id": "2",
+    "answerText": "Wednesday"
   },
   {
     "poll_id": "2",
@@ -33,18 +37,46 @@
   },
   {
     "poll_id": "3",
-    "answerText": "Batman"
+    "answerText": "Bootstrap"
   },
   {
     "poll_id": "3",
-    "answerText": "Superman"
+    "answerText": "Tailwind"
   },
   {
     "poll_id": "3",
-    "answerText": "Wonderwoman"
+    "answerText": "Bulma"
   },
   {
     "poll_id": "3",
-    "answerText": "Flash"
+    "answerText": "UIKit"
+  },
+  {
+    "poll_id": "3",
+    "answerText": "Milligram"
+  },
+  {
+    "poll_id": "3",
+    "answerText": "Foundation"
+  },
+  {
+    "poll_id": "3",
+    "answerText": "Pure.css"
+  },
+  {
+    "poll_id": "3",
+    "answerText": "Tachyons"
+  },
+  {
+    "poll_id": "3",
+    "answerText": "Materialize"
+  },
+  {
+    "poll_id": "3",
+    "answerText": "Sass"
+  },
+  {
+    "poll_id": "3",
+    "answerText": "Other"
   }
 ]
